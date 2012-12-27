@@ -15,8 +15,8 @@ def winePrice(rating, age):
     price = rating / 2.0
 
     if age > peak_age:
-        # Past its peak, goes bad in 10 years
-        price = price * (5 - (age - peak_age) / 2.0)
+        # Past its peak, goes bad in 5 years
+        price = price * (5 - (age - peak_age))
     else:
         # Increases to 5x original value as it approaches its peak
         price = price * ( 5 * ((age + 1) / peak_age))
