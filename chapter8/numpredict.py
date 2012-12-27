@@ -44,13 +44,13 @@ def wineSet1(seed):
         age    = random.random() * 50
 
         # Get reference price
-        price  = wineprice(rating,age)
+        price  = winePrice(rating,age)
     
         # Add some noise
-        price  *= (random.random() * 0.9 + 0.2)
+        price  *= (random.random() * 0.4 + 0.8)
 
         # Add to the dataset
-        rows.append({'input':(rating,age), 'result':price})
+        rows.append({'input':(rating ,age), 'result':price})
 
     return rows
 
@@ -146,7 +146,7 @@ def subtractWeight(dist, const=1.0):
     else: 
         return const - dist
 
-def gaussianWeight(dist, sigma=5.0):
+def gaussianWeight(dist, sigma=10.0):
     """ Weighting function for neighbors.
 
     A neighbor is weighted using a Gaussian function.
@@ -158,7 +158,7 @@ def gaussianWeight(dist, sigma=5.0):
                  of sigma.
 
     """
-    return math.e**(-dist**2 / (2 * sigma**2))
+    return math.e**(-dist**2 / (2.0 * sigma**2))
 
 def knnWeightedEstimate(data, vec1, k=5, weightf=gaussianWeight):
     """Computes the weighted k-NN for a item from data with a vector vec1 of
@@ -201,8 +201,8 @@ def divideData(data, test=0.05):
         test -- fraction of data to be included in the test set
 
     """
-    trainset=[]
-    testset=[]
+    trainset = []
+    testset  = []
 
     # divide data randomly
     for row in data:
@@ -230,7 +230,7 @@ def testAlgorithm(algf, trainset, testset):
     for row in testset:
         # predict the result using trainset
         guess = algf(trainset, row['input'])
-        # compute the squared error
+        # compute the sum of squared errors
         error += (row['result'] - guess)**2
 
     # compute the MSE
@@ -262,7 +262,7 @@ def wineSet2(seed):
         seed -- int, seed for random number generator
 
     """
-    random.seed(seed)
+    
     rows=[]
 
     # generate the various attributes that determine bottle price
@@ -271,10 +271,10 @@ def wineSet2(seed):
         age        = random.random() * 50
         aisle      = float(random.randint(1, 20))
         bottlesize = [375.0, 750.0, 1500.0, 3000.0][random.randint(0, 3)]
-        price      = wineprice(rating, age)
-        price      *= (bottlesize / 750)
+        price      = winePrice(rating, age)
+        price      *= (bottlesize / 750.0)
         price      *= (random.random() * 0.9 + 0.2)
-        rows.append({'input':(rating,age,aisle,bottlesize), 'result':price})
+        rows.append({'input':(rating, age, aisle, bottlesize), 'result':price})
 
     return rows
 
