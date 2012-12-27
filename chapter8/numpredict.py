@@ -292,13 +292,30 @@ def rescale(data,scale):
         scaled = [scale[i] * row['input'][i] for i in range(len(scale))]
         scaleddata.append({'input':scaled,'result':row['result']})
     return scaleddata
-"""
-def createcostfunction(algf,data):
-  def costf(scale):
-    sdata=rescale(data,scale)
-    return crossvalidate(algf,sdata,trials=20)
-  return costf
 
+def createCostFunction(algf, data):
+    """Wrapper function used to optimize crossValidate.
+
+    Keyword arguments:
+        algf   -- algorithm/function to be evaluated
+        data   -- data set containing items and their attributes
+
+    """
+    def costf(scale):
+        """Converts crossValidate into a cost function. Want to choose values
+        for scale in order to minimize average mean-square prediction error.
+
+        Keyword arguments:
+            scale -- vector of floats which are used to rescale variables (should
+                     have same length as number of attributes).
+
+        """
+        sdata=rescale(data, scale)
+        return crossValidate(algf,sdata,trials=10)
+    
+    return costf
+
+"""
 weightdomain=[(0,10)]*4
 
 def wineset3():
