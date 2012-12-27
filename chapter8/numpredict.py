@@ -47,7 +47,7 @@ def wineSet1(seed):
         price  = wineprice(rating,age)
     
         # Add some noise
-        price  *= (random.random() * 0.2 + 0.9)
+        price  *= (random.random() * 0.9 + 0.2)
 
         # Add to the dataset
         rows.append({'input':(rating,age), 'result':price})
