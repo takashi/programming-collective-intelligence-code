@@ -1,7 +1,8 @@
 import httplib
 from xml.dom.minidom import parse, parseString, Node
 
-# import developer keys
+# import developer keys (You will need to create your own developerkeys.py
+# script containing your own keys before using this file!)
 from developerkeys import *
 
 devKey    = productionDevKey
@@ -496,6 +497,12 @@ def GetAllBidders(itemID, siteID=0):
         result.append(tmp_result)
         
     return result
+
+def GetBiddersList(siteID=0):
+    pass
+
+def GetSellersList(siteID=0):
+    pass
 
 def generateLaptopDataset():
     searchResults = findItemsAdvanced('laptop', categoryId=175672)
