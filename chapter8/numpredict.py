@@ -1,6 +1,9 @@
 import random
 import math
 
+import numpy as np
+import matplotlib.pyplot as plt
+
 def winePrice(rating, age):
     """Articifical wine price model.
 
@@ -339,7 +342,7 @@ def wineSet3(seed):
             row['result'] *= 0.6
     return rows
 
-def probguess(data, vec1, low, high, k=5, weightf=gaussian):
+def probGuess(data, vec1, low, high, k=5, weightf=gaussianWeight):
     """Function returns a value between 0 and 1 representing the probability
     that the price of an item with attributes vec1 lies between low and high.
 
@@ -372,37 +375,64 @@ def probguess(data, vec1, low, high, k=5, weightf=gaussian):
     if tweight == 0:
         return 0
   
-  # The probability is the weights in the range divided by all the weights
-  return nweight / tweight
+    # The probability is the weights in the range divided by all the weights
+    return nweight / tweight
 
-"""
-from pylab import *
+def cumulativeGraph(data, vec1, high, k=5, weightf=gaussianWeight):
+    """Function display an estimate of the cumulative distribution function
+    for the data.
 
-def cumulativegraph(data,vec1,high,k=5,weightf=gaussian):
-  t1=arange(0.0,high,0.1)
-  cprob=array([probguess(data,vec1,0,v,k,weightf) for v in t1])
-  plot(t1,cprob)
-  show()
+    Keyword arugments:
+        data    -- data set containing items and their attributes
+        vec1    -- vector of attributes describing the item of interest
+        high    -- upper bound on the price range
+        k       -- number of neighbors to use in the calculation
+        weightf -- the weighting function to apply to the raw distance measures
+
+    """
+    t1    = np.arange(0.0, high, 0.1)
+    cprob = np.array([probGuess(data, vec1, 0, v, k, weightf) for v in t1])
+
+    # create the plot of the empirical CDF and display
+    plt.plot(t1, cprob)
+    plt.xlabel('Price')
+    plt.ylabel('F(X)')
+    plt.title('Estimated CDF for the price of item')
+    plt.show()
 
 
-def probabilitygraph(data,vec1,high,k=5,weightf=gaussian,ss=5.0):
-  # Make a range for the prices
-  t1=arange(0.0,high,0.1)
+def probabilityGraph(data, vec1, high, k=5, weightf=gaussianWeight, ss=5.0):
+    """Function display an estimate of the probability density function for the
+    data.
+
+    Keyword arugments:
+        data    -- data set containing items and their attributes
+        vec1    -- vector of attributes describing the item of interest
+        high    -- upper bound on the price range
+        k       -- number of neighbors to use in the calculation
+        weightf -- the weighting function to apply to the raw distance measures
+        ss      -- controls the amount of smoothing
+
+    """
+    # Make a range for the prices
+    t1    = np.arange(0.0, high, 0.1)
   
-  # Get the probabilities for the entire range
-  probs=[probguess(data,vec1,v,v+0.1,k,weightf) for v in t1]
+    # Get the probabilities for the entire range
+    probs = [probGuess(data, vec1, v, v + 0.1, k, weightf) for v in t1]
   
-  # Smooth them by adding the gaussian of the nearby probabilites
-  smoothed=[]
-  for i in range(len(probs)):
-    sv=0.0
-    for j in range(0,len(probs)):
-      dist=abs(i-j)*0.1
-      weight=gaussian(dist,sigma=ss)
-      sv+=weight*probs[j]
-    smoothed.append(sv)
-  smoothed=array(smoothed)
+    # Smooth them by adding the gaussian of the nearby probabilites
+    smoothed=[]
+    for i in range(len(probs)):
+        sv = 0.0
+        for j in range(len(probs)):
+            dist   = abs(i - j) * 0.1
+            weight = gaussianWeight(dist, sigma=ss)
+            sv     += weight * probs[j]
+        smoothed.append(sv)
+    smoothed = np.array(smoothed)
     
-  plot(t1,smoothed)
-  show()
-"""
+    plt.plot(t1, smoothed)
+    plt.xlabel('Price')
+    plt.ylabel('Probability density')
+    plt.title('Estimated density function for the price of item')
+    plt.show()
