@@ -397,7 +397,7 @@ def cumulativeGraph(data, vec1, high, k=5, weightf=gaussianWeight):
     plt.plot(t1, cprob)
     plt.xlabel('Price')
     plt.ylabel('F(X)')
-    plt.title('Estimated CDF for the price of item')
+    plt.title('Estimated CDF for the price of specified item', weight='bold')
     plt.show()
 
 
@@ -434,5 +434,6 @@ def probabilityGraph(data, vec1, high, k=5, weightf=gaussianWeight, ss=5.0):
     plt.plot(t1, smoothed)
     plt.xlabel('Price')
     plt.ylabel('Probability density')
-    plt.title('Estimated density function for the price of item')
+    plt.title('Estimated density function for the price of specified item',
+              weight='bold')
     plt.show()
