@@ -1,500 +1,1155 @@
-Obesity not a problem
-0.689921777771 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.616521773806 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.594775751071 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-Fitness equipment
-0.336438029037 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.0336830699618 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.0323861213375 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-
-1000 Atkins Recipes E-Book
-2.056067447 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-1.81222264198 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.31319239108 ['quot', 'they', 'money', 'want', 'very', 'best']
-
-saturday
-7.46811621754 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.174282882652 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.00317828003493 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-Food & Exercise -- 10/13/2007
-4.73555293191 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.937525542474 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.10240571114 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-Food & exercise -- 10/12/2007 (yesterday)
-3.97594760235 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-1.01018312908 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.0198736807467 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-Have you been enslaved and confused by the omniscience myth?
-1.14697423243 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.548717665826 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.159098480615 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-
-High or low fat food? Easy trick for figuring it out
-9.98464450123 ['food', 'calories', 'than', 'easy', 'high', 'come']
-4.04959173123 ['quot', 'they', 'money', 'want', 'very', 'best']
-0.123588233146 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-Absolutely Free People Search
-1.39249472006 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.459779859548 ['fats', 'quot', 'this', 'good', 'about', 'like']
-0.4371224863 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Friday
-4.35052263015 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.609863992308 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-0.249760019695 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-Food and Workout Log 10.11.07
-4.76278425737 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-1.18573164731 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.559740845941 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-LIL / Biggie's October Bulletin - UK
-1.6407957576 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-1.09371385364 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.0997065733116 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-
-How accurate are the calorie meters on gym equipment?
-1.68385026718 ['with', 'your', 'weight', 'have', 'control', 'about']
-1.24336224612 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.472039508303 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-diet-exercise thursday
-5.62839188358 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-1.42876311885 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.451891791988 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-Fast Food Meat
-3.96657604228 ['quot', 'they', 'money', 'want', 'very', 'best']
-1.56912835469 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.945562729964 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-Food & Exercise -- 10/11/2007
-2.06565313343 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.915925841734 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.852089104271 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-sleepy food/fitness thursday
-5.29370213306 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.821758436298 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-0.373361576129 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-6 Dollars! You Can't Lose!! AS SEEN ON OPRAH & 20/20
-3.50452080121 ['quot', 'they', 'money', 'want', 'very', 'best']
-1.48000806252 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.353120143386 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-
-Looking for mediterranean buffet restaurants in Toronto, Canada
-0.766709189825 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.488536397538 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.305836578699 ['quot', 'they', 'money', 'want', 'very', 'best']
-
-Food and Workout Log 10.10.07
-5.10395750879 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.931990921746 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.0751093197335 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-Food and Workout Log 10.9.07
-3.66128126402 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.924777033606 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.46368820747 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-Food & Exercise -- 10/10/2007
-2.09636617791 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.777930860455 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.234412590473 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-rainy diet/exercise
-2.42408643655 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-1.79759287175 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-1.44383382428 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Whatever happened to Kaleb?
-1.62771768736 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.424792812054 ['with', 'your', 'weight', 'have', 'control', 'about']
-3.00050522053e-008 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Food & Exercise -- 10/9/2007
-2.67051008267 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-2.25685573791 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.962829471038 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-Way of getting my veggies
-2.51102412355 ['quot', 'they', 'money', 'want', 'very', 'best']
-1.82193456941 ['with', 'your', 'weight', 'have', 'control', 'about']
-1.20974377068 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Food & Exercise -- 10/8/2007 (yesterday)
-3.57035878288 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.581070745119 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.151621405217 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Oatmeal, cereal of choice.
-3.41252863148 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.482857491594 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.21056938621 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Whatever happened to Dally?
-0.38943120274 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.38027115946 ['quot', 'they', 'money', 'want', 'very', 'best']
-0.176713051522 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-
-More about the Chicago marathon
-6.1620884463 ['quot', 'they', 'money', 'want', 'very', 'best']
-0.268050785403 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.0210462038578 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-Food and Workout Log 10.8.07
-3.19119866786 ['food', 'calories', 'than', 'easy', 'high', 'come']
-2.68113794132 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-1.31607800222 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-diet/exercise 10/8
-4.35583316205 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-1.56546955704 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-1.25839277593 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-I did'nt diet to get in shape for Trinidad's Carnival.....
-5.9231935598 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.567204076047 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.0169687217709 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-I got in shape and took part in Trinidad Carnival!
-1.02074036539 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.930265487859 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.266432773175 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-THE ULTIMATE FAT-BURNING DAY
-1.72598890408 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.528141703291 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.390073319858 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-Control ur Weight
-6.78756986407 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.000529137198612 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.00038074933869 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-BrainStimPro Binaural Brainwave Generator
-0.533630276909 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.37841909077 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.116016288049 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Food & Exercise -- 10/7/2007
-7.73926153154 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.470298707782 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.233105196286 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-food/exercise Friday 10/7
-4.69100441998 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-1.64398092185 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.689120996726 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-Should we ban marathons?
-2.44173145283 ['quot', 'they', 'money', 'want', 'very', 'best']
-1.81373140989 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-1.3775418859 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-Abstinence 3 (8 October to 24 October)
-0.969974503706 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-0.912311154908 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.371633089984 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-Food & Exercise -- 10/6/2007 (yesterday)
-2.63514100937 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-1.80605150884 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.426403502815 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-Food and Workout Log 10.5.07
-2.03340244602 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.321040122788 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.286990704435 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-Food and Workout Log 10.4.07
-2.32606586074 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-2.23872352546 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.991619356436 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-
-Exercise
-1.82773959677 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-1.05124941331 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.420038570854 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-food/exercise Friday 10/5
-5.3332773133 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-1.381638768 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.590183487282 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-
-Food & Exercise -- 10/5/2007
-5.22083940456 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.29336324721 ['fats', 'quot', 'this', 'good', 'about', 'like']
-0.279839860069 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-Fitness and wellness is here to help you, about fittnes, nutrition, health, everything is here...
-1.47212290909 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.581092551305 ['fats', 'quot', 'this', 'good', 'about', 'like']
-0.22366446507 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-
-Live healthy and disease free
-1.33925118974 ['fats', 'quot', 'this', 'good', 'about', 'like']
-0.735241239185 ['with', 'your', 'weight', 'have', 'control', 'about']
-4.48445780778e-005 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-maintain ur diet dailyu
-1.37867872087 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-7.75955547582e-008 ['with', 'your', 'weight', 'have', 'control', 'about']
-8.66186281206e-016 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-Food & Exercise -- 10/4/2007
-5.16310413391 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.108950865658 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.103411657525 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-diet/exercise 10/4
-5.94642162786 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-1.15981737715 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.0648977104196 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-
-sad to say
-2.0658103969 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-1.0211752756 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-0.606678422181 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-
-Food and Workout Log 10.3.07
-5.48488799917 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-1.04086527858 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.86250634261 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Walking As Exercise
-2.49352373509 ['quot', 'they', 'money', 'want', 'very', 'best']
-2.18075570265 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.613516861795 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-food/exercise wednesday 10/3
-5.07554844226 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-1.23323613477 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.351030687614 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-How much proteins leak into water when cooking vegetables ?
-2.93064858147 ['with', 'your', 'weight', 'have', 'control', 'about']
-1.18774119665 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.00439761415131 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-
-Food & Exercise -- 10/3/2007
-3.50183444986 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-2.21222380937 ['quot', 'they', 'money', 'want', 'very', 'best']
-1.37194239805 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-The truth about exercising and your body as a whole
-3.21386971879 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-3.15819744924 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.270507407515 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-Got the new Elliptical
-1.14114086054 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-1.10131650413 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.477565648015 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-Fingerstick cholesterol tests accurate?
-2.14611673458 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-1.26970417226 ['fats', 'quot', 'this', 'good', 'about', 'like']
-0.750416051713 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-
-Weight Loss Tips
-5.21079777525 ['with', 'your', 'weight', 'have', 'control', 'about']
-1.59092846403 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-0.00134310805496 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-
-Obesity Driving Rising U.S. Health Costs
-1.25615188819 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.712235310825 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.238899338741 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Flu-Busting Chicken Soup
-5.54567450388 ['with', 'your', 'weight', 'have', 'control', 'about']
-1.21893998075 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.451175568656 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-Re: My Healing Story
-1.96323375291 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.491756558034 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.477646079039 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-Food and Workout Log 10.2.07
-2.60282810129 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-1.20884355476 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.950088631141 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-food/exercise Tuesday 10/2
-2.64289395866 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-0.651445733893 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.371530809297 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-Food & Exercise -- 10/2/2007
-4.03395454429 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.733387053358 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.335622901915 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-
-Diet Recommendations following stoppage of activity
-2.76689639493 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-2.66796965036 ['quot', 'they', 'money', 'want', 'very', 'best']
-0.00214949067482 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-why I'm succeeding, finally, with my fitness
-3.81276353396 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-2.28727363664 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.0084896973916 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-food/exercise Monday 10/1
-6.52183126318 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-1.04845803053 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.220817568443 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-
-Food & Exercise -- 10/1/2007
-3.41693152333 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-1.43659575232 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.0107024339333 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-
-Good fats bad fats
-14.9233786406 ['fats', 'quot', 'this', 'good', 'about', 'like']
-0.12157320235 ['quot', 'they', 'money', 'want', 'very', 'best']
-0.000388079511473 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-milk products
-2.91179410526 ['quot', 'they', 'money', 'want', 'very', 'best']
-1.35981372517 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.894968443359 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-Food and Workout Log 10.1.07
-4.86163252456 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-3.04379043965 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.288092400057 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-< 1g, etc.
-5.96451663382 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.757014711498 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.0106873617525 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-peanut butter
-2.79640093073 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.974232666377 ['fats', 'quot', 'this', 'good', 'about', 'like']
-0.20210540615 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-
-food/exercise Sunday 9/30
-3.13525705865 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-1.77396028396 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.84994166551 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-
-Food and Workout Log 9.30.07
-4.16473442796 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-1.1093666032 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.0787803510605 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-Food & Exercise -- 9/30/2007
-4.50185209238 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-1.04931983732 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.691962870134 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-Food and Workout Log 9.29.07
-4.84939396321 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-2.39617281343 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.816992749371 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-Food and Workout Log 9.28.07
-4.67171965065 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.282691470562 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.200338717705 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-
-LOUIE + LINESMAKER = $$$$
-5.58276496802 ['quot', 'they', 'money', 'want', 'very', 'best']
-0.342556596947 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.179902643439 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-
-Food & Exercise -- 9/29/2007 (yesterday)
-2.58541666839 ['quot', 'they', 'money', 'want', 'very', 'best']
-2.09030954926 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.852396204369 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-
-ASDLC has changed
-0.112818164838 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.102149673333 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.0271390834142 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-
-diet/exercise Saturday 9/29
-2.11947826799 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-1.44172267631 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.589173976223 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-Sensible Diet & Exercise
-5.04673654071 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-3.61357653903 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-1.40785970283 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-Abstinence 2.- (20 September to 7 October )
-0.968219095052 ['food', 'calories', 'than', 'easy', 'high', 'come']
-0.949878615175 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-0.46422787912 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-Evolution and Weight
-2.20784229869 ['quot', 'they', 'money', 'want', 'very', 'best']
-1.18857451599 ['fats', 'quot', 'this', 'good', 'about', 'like']
-1.00060668406 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-Food & Exercise -- 9/28/2007 (yesterday)
-4.75585045074 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-0.840897380766 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.0455304461165 ['quot', 'they', 'money', 'want', 'very', 'best']
-
-The Abs Diet by David Zinczenko
-6.58003120192 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.00218473474643 ['fats', 'quot', 'this', 'good', 'about', 'like']
-0.00140268366152 ['food', 'calories', 'than', 'easy', 'high', 'come']
-
-Re: ABC News Nightline: Carbohydrates Make You Fat, and Perhaps Sick
-2.50629631142 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-1.32614477527 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.194215052468 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-
-Sensible Eating
-2.67280083529 ['quot', 'they', 'money', 'want', 'very', 'best']
-1.95758534619 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.272657483613 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-3 slices of ff cheese on a poached egg
-0.925803022044 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-0.158529510462 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-1.69625785908e-009 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-
-food/exercise Friday 9/28
-4.2243066995 ['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-1.69260968796 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.355277035138 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-
-money making opportunity
-1.52941598839 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-1.23535469791 ['quot', 'they', 'money', 'want', 'very', 'best']
-0.292057461928 ['with', 'your', 'weight', 'have', 'control', 'about']
-
-The Benefits of Biotechnology For Mankind
-0.543967592519 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.389852100811 ['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-0.208865237821 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-Food and Workout Log 9.27.08
-5.58477112035 ['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-0.093698650419 ['food', 'home', 'then', 'exercise', 'morning', 'went']
-1.16281432958e-005 ['quot', 'they', 'money', 'want', 'very', 'best']
-
-Re: My First Century Ride
-2.7939634836 ['quot', 'they', 'money', 'want', 'very', 'best']
-1.98080235676 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.0869645267992 ['fats', 'quot', 'this', 'good', 'about', 'like']
-
-A Special Update from Matty V.
-1.64986127649 ['that', 'much', 'does', 'exercise', 'this', 'morning']
-0.635897197115 ['with', 'your', 'weight', 'have', 'control', 'about']
-0.337529069245 ['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
+Stock index futures point to flat open
+19.0434714381 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+7.59515315277e-27 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+4.22925407885e-67 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+Fed hawks worry about threat of inflation
+6.61843443136 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.994888057607 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.654852555901 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+Boeing Dreamliner hit by two more mishaps in Japan
+4.65936457122 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.26635624958 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.346702612741 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+Analysis: Euro convergence trades could return to fashion
+2.84749701462 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+2.10037783843 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.13496109518 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+Shell may have moved rig to avoid taxes: U.S. lawmaker
+9.35590355911 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.65455221147 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.569166923354 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+EU's Rehn rules out Cyprus debt restructuring
+13.9922131734 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+0.0116039539583 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+5.42195344174e-43 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+Ford hiring 2,200 U.S. white-collar staff as vehicle lineup expands
+4.48372754917 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.737056185314 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+0.209573203247 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+
+Santander sees profits rebounding this year
+4.40361587911 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+2.91247324425 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.88017317807 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Exclusive: Private equity eyed Legg Mason but were spurned
+4.60440968702 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+3.04685693424 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+2.20963511063 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+American Express to cut 5,400 jobs, take charges in fourth quarter
+1.80268692006 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+1.39179989555 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+1.21205249911 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+Brahimi meets U.S. and Russian envoys on Syria
+1.65562438308 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.42229382831 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+1.10710237273 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+
+China's CNOOC a step closer to restart largest offshore oilfield
+5.80513276171 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+2.27195882649 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.97348926195 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+
+Ford's Turkish unit says sales, exports fell in 2012
+11.7500087986 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+3.44758815499 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+2.05440104547 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+UPDATE 1-IAEA chief says not optimistic on Iran nuclear talks
+2.62623361352 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+2.42258804771 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.36039277366 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+Rebels say have seized helicopter base in Syria
+2.99562188801 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+2.02843012526 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+1.75891918121 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+UPDATE 1-Li & Fung warns of 40 pct fall in 2012 profit on restructuring costs
+19.2873601325 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.503704931669 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.00177138073995 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+European shares slip below 22-month high as China data weighs
+31.2474668075 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+1.30242760425 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+0.933155257243 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+PRESS DIGEST-Canada-Jan 11
+11.6674425294 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.712930504779 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.315808807209 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+U.S. stock index futures point to flat open
+19.0434714381 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+3.56154895424e-27 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+4.319449864e-67 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+Pakistan summons Indian envoy over Kashmir tensions
+4.7893110425 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.74258749492 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+1.53743578901 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+Teen entrepreneurs tap their mothers' Facebook connections
+2.36774367335 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.576754842472 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.26447079877 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Consumer watchdog strikes balance with mortgage rules
+2.42010400681 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.82908631271 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.70547804165 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+Cliff fears, tax rises mean payday for tax advisers
+1.83201291693 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.524778135189 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+0.128832651887 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+Wells Fargo ordered to pay investors $1.3 millionn for flawed strategy
+3.93787563668 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+3.92773184318 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+1.49595445179 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Will new rules make it easier to get a mortgage?
+1.82194585863 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.20222504607 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+1.04302948806 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+Active management's slow bleed
+2.51976343571 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.67018169565 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+1.21545365461 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+
+Fidelity trustees call money market reform "perverse"
+1.8970077795 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.04992847488 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.557786793725 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+End of the government check era approaches
+1.22890356775 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+1.16198780291 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.943397442022 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+
+PIMCO flagship cuts mortgages, ups Treasuries in December
+2.04385307183 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.68451102954 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+1.20328767577 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+Exclusive: Ex-Tudor manager sets up own Singapore shop - sources
+2.08302243156 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.95267123777 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+1.63754543407 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+
+Payback time: Bank of Ireland CoCo kicks off state repayments
+1.4380280431 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+1.18343710905 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.780099642827 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+UPDATE 1-MF Global creditors propose liquidation plan
+0.808577581114 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.77699581518 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.774213206147 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+CORRECTED-U.S. objects to MSR Resort bankruptcy plan
+2.05888021873 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.000294549257563 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+5.72439131904e-62 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+MF Global creditors propose liquidation plan
+1.36415868629 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.30076021929 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+1.25610808503 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+
+U.S. government objects to Paulson hotel group's bankruptcy plan
+4.39337683677 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.10951998268 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+0.209065015124 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+UPDATE 3-Germany may slip into recession, Europe weakens: GM CEO
+5.14691808472 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.48162225593 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+1.41831967947 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+UK retailer Jessops enters administration
+1.84225214848 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.1928400709 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.833476151349 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+Wisconsin-based milk processor Golden Guernsey to liquidate
+1.89612664472 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.747008584494 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.676768838056 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+Apollo Global may bid for snack business of Hostess - report
+2.90817545712 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+2.82999763407 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.624441635017 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+
+RPT-UPDATE 6-AIG may join bailout lawsuit against U.S. government
+3.86340750777 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+2.05033202795 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+1.23982549666 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+
+EURO GOVT-Bunds pare losses as investors reposition post-ECB
+4.42654515235 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+4.06742598614 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+3.77112303479 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+UPDATE 1-EU's Rehn rules out Cyprus debt restructuring
+13.6245993524 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+0.536932304462 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.374322725642 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+EURO GOVT-Cautiously upbeat ECB, periphery sales hurt Bunds
+4.72335075552 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+1.60681713338 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.849408406725 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+
+German economy declined in Q4 on weak European demand - ministry
+3.37395845701 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+2.55145106022 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+2.40268971368 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+EU's Rehn says does not expect bailout request from Slovenia
+4.91084024045 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+2.47488460495 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+1.40676359913 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+EU's Rehn rules out debt 'haircut' for Cyprus
+13.6452171942 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+0.519516161436 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+0.162270231461 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+
+Slovakia - Factors To Watch on Jan 11
+0.0 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+0.0 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.0 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+EURO GOVT-Bunds fall after cautiously upbeat ECB
+5.06060786802 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+4.56670995217 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+1.98887217017 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+ADB's Kuroda: important for BOJ to commit to unlimited easing
+2.46445152481 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+2.10064013813 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+2.06338037221 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+JGBs yield curve steepens as Abe fuels BOJ easing expectations
+2.02143878646 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+0.647022118116 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.421462054279 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Clearwire investor loses bid for fast-track trial versus Sprint deal
+18.5324117735 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+4.2254580836e-22 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+1.54611928131e-82 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+Morgan Stanley M&A banker Popper to join Temasek: sources
+19.649356338 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+6.97453079787e-48 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+2.05788293786e-62 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+JC Flowers to sell down BTG Pactual stake, analysts say
+2.42594759334 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+2.32778068654 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+1.87057868674 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+BlackRock to buy Credit Suisse ETF business
+1.56265508818 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.1193109801 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.8717579408 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+Tycoon Slim's retail arm to raise $720 million with share offer
+4.46301014234 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+4.23740218585 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+2.643612795 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+Supervalu selling 877 supermarkets in $3.3 billion deal
+3.98946121682 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+3.46229768587 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+2.52627303011 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+China regulator seeks information on HSBC-Ping An deal
+5.57382628257 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+3.64081010546 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+2.0009475554 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+GM says Opel not up for sale
+1.61370885124 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.16621676484 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.569749762028 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+
+Greece's top banks pull out from race for Postbank: source
+2.16183740094 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+1.91652727809 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+1.70155845999 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+Jobless claims rise, but jobs market recovery intact
+1.56893143273 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.44299431731 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.34714575848 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+Two Fed policy makers warn about potential inflation
+3.08857260499 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.97357735218 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.614764304501 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+
+Fed easing may not be aggressive enough: Kocherlakota
+2.62916953511 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.735541742452 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.617288799324 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+Obama nominates Lew to succeed Geithner at Treasury
+1.07462802277 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.625482929125 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.349623360499 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+Fed transferred $88.9 billion in profits to U.S. Treasury last year
+8.10854247939 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.85592583894 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+1.32342744068 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Fed's balance sheet grows in latest week
+3.04532992327 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+2.05768187027 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.51140849107 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+Chamber of Commerce makes budget cuts top goal for 2013
+0.798069652759 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+0.493014397449 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.448742828932 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+USDA declares drought disaster in much of Wheat Belt
+3.59431251295 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.474374325 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.88039522642 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Italy's 3-yr yields break below 2 percent at auction
+2.85357928902 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+2.26450285046 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+2.00861947424 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+SE Asia Stocks-Indonesia leads losses on week; Vietnam outperforms
+1.38822008783 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+0.594372563744 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+0.250177485769 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+Morgan Stanley M&A banker Popper to join Temasek - sources
+19.3041080903 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+3.35143852162e-44 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+6.94164144129e-56 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+UPDATE 1-Impregilo completes EcoRodovias stake sale
+2.14588224296 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+1.05905915458 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.999778955232 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+GLOBAL MARKETS-World shares at 8-month high, euro rallies on ECB shift
+6.79348829353 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+2.40170041956 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+0.459473511644 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+European shares briefly dip as Tullow drops
+5.19814863516 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+3.0968579621 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+2.59906963523 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+
+EU agency sees no new risks with combined contraceptives
+2.14825926179 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.67091704398 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+1.10431461184 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+UPDATE 1-Polar Capital boasts rising assets and fee income
+2.09822514558 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.38575158125 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.30023803584 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+Inflation data snaps winning streaks for China, Hong Kong stocks
+10.1711212675 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+0.156508022828 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+2.40338033551e-14 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+UK stocks edge higher, led by pharma sector
+5.10484635987 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+2.9284122772 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+1.59531930612 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+UK stocks edge further above 6,100 resistance
+3.60833836998 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+2.76930435639 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+2.38078584647 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+Australia shares edge lower on week, cyclone curbs miners
+13.0851805175 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.42766104312 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+1.1561546871 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Australia shares end week down, cyclone hurts miners
+12.3666099818 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+0.868638922625 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+0.325127790888 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+Australia shares slip, cyclone hurts major miners
+13.5727002239 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.0964128104 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+0.598536424258 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+Australia shares take breather, miners lag
+12.18004159 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.25211162382 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.32293679434 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+Australia shares rise 0.2 pct; resources lag
+9.90205436286 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.86008748795 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+1.2614238589 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+Australia shares seen higher, cyclone may cap gains
+11.2237143326 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.25249902829 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+0.0401809028497 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+
+UPDATE 3-Molycorp lowers 2013 outlook; shares plunge
+1.90553176843 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+1.36077876231 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.17202202449 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Deals of the day -- mergers and acquisitions
+1.32645053158 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.22981994793 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.19479619327 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+
+Top Inmet shareholder to tender shares to First Quantum
+4.14281094353 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+2.66598984017 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.58015102129 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+France's EDF sells its Exelon's stake
+4.60175866987 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.67847076815 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+1.46251803791 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+PRESS DIGEST - Wall Street Journal - Jan 11
+12.4029978194 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.89355968843 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+1.26189896095e-152 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+
+Poland's KGHM to publish new long-term strategy in Q2 - paper
+1.04229355175 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+0.949708691868 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.74675342436 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+RPT-Market Chatter-Corporate finance press digest
+6.02741719817 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+2.28948043218 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.770483590588 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+Market Chatter-Corporate finance press digest
+6.02741719767 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+2.28948043172 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.770483589746 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+PRESS DIGEST - Financial Times - Jan 11
+2.3328749953 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.45208701384 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.783260074492 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+SAC expects big fund exodus in 2013- WSJ
+3.14411110674 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+1.5143866404 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.996557126589 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+UPDATE 4-Supervalu selling 877 supermarkets in $3.3 billion deal
+2.83202063142 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+1.61730687887 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.807171477528 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+UPDATE 1-FINRA takes first steps to regulate crowdfunding industry
+19.0991857822 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.13843585235 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+1.92149452205e-06 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+FINRA takes first steps to regulate crowdfunding industry
+18.5750895483 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.07851654496e-73 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+5.40677080739e-98 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+
+UPDATE 3-Supervalu selling five grocery chains to investor group
+3.54718845352 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.34970125428 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.579097378859 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+Supervalu to sell 5 chains to Cerberus-led group, posts profit
+6.32573164608 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.926810372622 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+0.768098983692 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+
+Trafigura eyes $600 mln target for mining fund
+1.90245787614 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+1.07353772525 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.00116340306 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+UPDATE 1-CVC in exclusive talks to buy control of Philippine PLDT unit -source
+1.98409017756 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.694742617548 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.40147168591 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+
+ANA domestic 787 flight dicovered with engine oil leak
+3.86492405244 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.46189500848 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+1.04525066643 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+PRESS DIGEST-New York Times business news - Jan 11
+16.6216563681 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.446747597245 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+0.222376635064 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+UPDATE 1-U.S. officials to review Boeing's Dreamliner - report
+6.98503433508 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+2.00741633653 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+1.0653042547 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+UPDATE 6-Shell may have moved rig to avoid taxes - U.S. lawmaker
+3.95980583569 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.578282697815 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.569486982796 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+U.S. officials to launch review of Boeing's Dreamliner - source
+7.31884590206 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.12185307155 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.05553086393 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+"Fiscal Cliff" worries depressed small-biz hiring: survey
+3.07738668987 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.96825453576 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.94161441791 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+Closely watched Internet TV startup Aereo raises $38 million
+3.59796736706 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+0.72728533455 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+0.665948383628 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Small business morale heals, but labor market view downbeat
+5.25885102202 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+3.40574656791 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.03728375464 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+Republican Sen. McConnell rules out more taxes in U.S. fiscal fight
+1.82747100369 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.16968290081 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.892146928138 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+U.S. small business hiring rebounds in December: NFIB
+5.40657197243 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+2.29547863781 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+1.10673509496 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+West's sweet tooth gives Sudan gum arabic export success
+0.494126674873 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.23239811406 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.200806180174 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+Small-business borrowing rises in November
+5.2903692281 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.28918620043 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+0.538801206043 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+Analysis: At cliff's edge, old ideas to cap tax breaks are new again
+1.48476753497 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.00813198794 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.772497528396 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+Japan PM leans on BOJ as government launches big economic stimulus
+4.34598368327 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.828276906238 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+0.735978869558 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Bankers warn of long crisis as rich seek comfort
+2.73190421186 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.76513472822 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+1.69535949651 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+
+Brokerages cut down on novice hires, turn to experience
+0.967918130479 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.850838692585 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+0.542293854825 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+
+Private banker pay holds up in tough market
+2.97450087057 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+2.58163048457 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.31351622811 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+
+Bessemer goes on defense, on pace for best year
+1.22649897251 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+0.828540433291 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.74882300887 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+Private bank clients urged to avoid U.S. securities
+2.3825596918 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.75147467822 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+1.63492923095 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+
+Rivals see UBS holding on to clients after trading loss
+6.58891529197 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+2.51739132119 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.910169820594 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+BlackRock launches first retail alternative funds
+4.82393990189 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.888514509962 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.206243246321 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+
+Swiss banks steer clear of consolidation
+3.73102329863 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.406453548913 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+0.390810361693 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Swiss banks tout stability and secrecy to lure rich
+2.11372919231 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.238051303028 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+0.0850106614082 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Vontobel sees client inflows at same pace as in H1
+3.40936905043 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+3.20594686801 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.69850573199 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+FOREX-Dollar rises vs yen on Abe comments, further gains likely
+4.30462074306 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.972715882764 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+0.317090688414 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+FOREX-Yen tumbles to 2 1/2-year low on Abe, Japan current account
+4.73022111839 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.204541572064 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.00158285251511 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+GLOBAL MARKETS-Asian shares, Brent retreat after China CPI; yen slides
+2.23763400755 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+1.85188148747 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+1.03366560092 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+U.S. stock mutual funds gain $7.5 bln, most since 2001 -Lipper
+3.87756226475 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+2.00708703413 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+1.10576950199 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+
+FOREX-Yen hits 2 1/2-year low on Abe, Japan c/a deficit
+4.73022111839 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.204541572064 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.00158285251511 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Japan PM Abe: Bold monetary easing needed to beat deflation
+2.80083211528 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+2.30254454501 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.05586969154 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+
+FOREX-Yen pummeled to 2 1/2-year low on Abe, Japan c/a deficit
+4.73022111839 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.204541572064 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.00158285251511 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Dollar hits 2-1/2 year high vs yen, eyes BOJ easing
+10.8209399447 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.74661010607 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+0.755466228502 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+UPDATE 2-Li & Fung warns of 40 pct fall in 2012 profit on restructuring costs
+18.6087731902 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+5.49219381545e-18 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+5.98749366793e-34 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+COLUMN-Saudi oil price target stretches to $110: Kemp
+1.6757866142 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+1.19869433146 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+1.15430938553 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+WRAPUP 2-Boeing Dreamliner hit by two more mishaps in Japan
+1.32880563144 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.30395307058 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.12948769152 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+Australian mining mogul Tinkler set for a hard landing as sale nears
+1.43124428407 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.14797996271 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+0.76608492998 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+
+REFILE-COLUMN-Iron ore curve, technicals show rally nearing end: Clyde Russell
+0.491570217198 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+0.433835429496 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.18839952197 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+UPDATE 1-Australian cyclone cuts fifth of global iron ore trade
+5.04832343287 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.23157937768 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+1.01678772439 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+UPDATE 2-Holiday PC sales dip for first time in 5 years
+6.99813761931 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.45699080664 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+1.25704197855 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+UPDATE 1-Copper users ask SEC to reverse copper ETF ruling
+1.16480612647 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.0971405442 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.00563957339 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+UPDATE 2-Moody's downgrades Cyprus to Caa3, warns may cut more
+6.24674286219 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+1.78636588324 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+1.38533815893 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+
+Taiwan blocks anti-media monopoly bill, raising fears for press freedom
+4.3221374763 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.46531846953 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+1.34151752849 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+UPDATE 1-UK's Savile abused hundreds over six decades -report
+16.7723419914 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.481559660472 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.105369761895 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+
+Makeshift bombs explode outside homes of Greek journalists
+3.58193551557 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.48967737707 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+1.35319719514 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+UPDATE 1-France's richest man's bid to be Belgian suffers setback
+11.7892607674 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.302340988524 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+2.01134099372e-56 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+UK's Savile abused hundreds over six decades -report
+16.3821430715 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.041469457069 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+4.97613491851e-29 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+UPDATE 2-China vehicle sales seen up a lacklustre 7 pct this year
+3.68404876102 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+2.73729325522 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+2.1953700533 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+
+UPDATE 1-Honda to cut 800 UK jobs on falling European demand
+2.14673747701 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+1.09501727007 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+0.830148295448 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+UK's Network Rail awards EDF Energy 10-year power supply deal
+2.64913179444 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.10500832468 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.602617109319 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+Norway's oil, gas production seen falling in 2013 -NPD
+3.72576801116 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+2.10909954269 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+1.88588883002 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+UPDATE 2-Brent drops towards $111 after China data curbs optimism
+2.47537783859 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+1.03496001724 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.973058427634 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+UPDATE 1-Tullow sees busy start to 2013 drilling year
+19.2493987846 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+0.373824856805 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.339390828357 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Tullow plans busy start to 2013 drilling year
+20.1588773212 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+0.147526091118 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+3.3859916306e-30 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+REFILE-Brent eases further below $112 on China inflation worries
+10.1964267453 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+1.79145832373 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+0.630196764364 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Rare Panda cub makes public debut at San Diego Zoo
+0.731386373185 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.67050808549 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.51757012139 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+Rain to help raise Mississippi River, ease shipper woes
+18.1461104143 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+2.67652320655e-76 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+2.97154548063e-79 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Wind shift may have freed whales trapped off Quebec
+4.74609681038 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.75414817021 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.03146964431 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+El Niño unlikely through Northern Hemisphere spring:  CPC
+0.891377151276 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.607575778264 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.583464105934 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+Australian biologist gets the jump on new species of flying frog
+1.75592563333 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.23143878339 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+1.07043267034 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+China's carbon intensity falls over 3.5 percent in 2012: official
+19.9123751669 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.372323396531 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.308712209792 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+Up to half of world's food goes to waste, report says
+2.06624275077 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.25609880391 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.863476070522 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+Rare snowstorm paralyses Jerusalem area, northern Israel
+0.655013843424 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.538851389082 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.37672756943 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+
+TEXT-Fitch affirms Naftogaz at 'CCC'; guaranteed notes at 'B'
+1.00677739855 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.332916326021 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+0.265746727085 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+
+National Bank share swap offer for Eurobank to end Feb 15
+3.79745830875 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+1.88127121888 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.7758339107 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+TEXT-S&P assessment on Agile Property Securities unchanged
+1.02404738304 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.362971193729 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+0.262020689449 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+
+Sompo, Dai-ichi, Allianz, Zurich eye insurer Yapi Kredi-sources
+3.73788405625 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+2.31704083821 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.78556903357 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Euribor rates rise after ECB keeps rates on hold
+27.754609214 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.433720894317 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.135635165938 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+BRIEF-Lloyds says Timothy Ryan leaves to join JP Morgan
+5.14736758459 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+1.78646260817 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.06789752079 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+UPDATE 1-Getinge says 2012 earnings below forecast, shares slide
+6.01890703023 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+4.76292625376 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.59220476803 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+Moody's changes Fosun's outlook to stable; assigns (P)B1 bond rating Ltd
+0.213563209212 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+0.0171671529346 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.00973567259043 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+
+BRIEF-Getinge says full year profit lower than expected at 3.6 bln SEK
+5.26874326211 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+4.20818168577 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+1.54182934105 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+BRIEF-Animalcare says Iain Menneer to replace Wildridge as new CEO
+2.83704523443 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.63722844439 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+1.27350527679 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+
+Swiss stocks - Factors to watch on Jan 11
+5.22392659438 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+1.92237638543 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+1.3569540208 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+Europe approves Astellas treatment for leaky bladder
+2.3831612551 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+1.48858208127 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.13955405329 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+Novartis says Afinitor reduces tumors in rare genetic disease
+0.961285704912 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.825301978258 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.719944540408 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+French and Benelux stocks-Factors to watch on Jan 11
+3.71776548011 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+3.0146387094 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+2.88899169546 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+Hong Kong, China shares slip as inflation accelerates
+9.86469818668 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+0.246157583162 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.140513622084 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+
+Hong Kong shares close down 0.4 pct, China inflation sparks profit taking
+14.335753135 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+2.32061425631 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+1.71529489772 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+
+China shares have worst day in 4 months, snap 5-week winning streak
+12.8763818504 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+2.53511360933 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.52121860082 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+TEXT-S&P Assigns Nine Entertainment 'BB-' Prelim Rtg; Otlk Stable
+1.25667683236 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.753182392872 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.698717636326 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+
+The top films at the North American box office
+17.6102424125 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+0.312112313412 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.0873847661578 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+UPDATE 1-'Texas Chainsaw' movie kills rivals at North America box office
+8.59322731294 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+1.31245060109 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+1.21222636627 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Bloody return of 'Texas Chainsaw' tops North American box office
+8.70269994727 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+0.355868679187 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.28949074548 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+"The Hobbit" keeps box office crown for third week
+11.0093847599 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+0.667835597377 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.279722501839 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+The top films in the North American box office
+16.6976168852 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+0.310524205906 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+2.57417519675e-169 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+
+"The Hobbit" trumps star-packed "Les Miserables"
+11.3608196638 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+0.648318034596 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.272169715636 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+
+UPDATE 1-'Hobbit' fever beats Tom Cruise at box office
+5.7278698971 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+2.18975619337 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.672612132149 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+'Hobbit' fever beats Tom Cruise at box office
+4.05071076869 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+0.649443583821 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.0746631437872 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+
+France's richest man's bid to be Belgian suffers setback
+11.3204445792 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.79734810009e-307 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+0.0 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+
+UPDATE 3-U.S. faces shortages of flu vaccine, Tamiflu treatment
+1.43348327979 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.748309493493 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.350069139189 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+
+UPDATE 1-Rain to help raise Mississippi River, ease shipper woes
+18.2609410071 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.569547655492 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.172620964726 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+
+US STOCKS-Wall St climbs as China data puts S&P back at 5-yr high
+5.87196972907 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+3.08753191436 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+2.75884906019 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+
+Argentine floods recede, farmers move fast to plant soy
+4.58622135527 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+2.77189592246 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+2.49554622493 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+Rains will help raise Mississippi River, ease shipper woes
+18.8497535459 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.379052339936 ['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+0.199443395598 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Indian shares fall ahead of inflation; Infosys surges
+25.3712814025 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+1.28226657178 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+0.650703878678 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+India Infosys shares jump; head for biggest daily pctge gain on NSE
+15.3369680464 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+0.778529708465 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+0.440343836657 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+BRIEF-Moneysupermarket.com expects FY adj revenue to rise
+2.31465924936 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+1.91159147429 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+1.09938694483 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+BRIEF-Laird says well placed to meet expectations for 2012
+4.75748008985 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+2.5819099373 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.112793376979 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+UPDATE 2-India's Infosys unexpectedly raises forecast, shares surge
+4.2585415845 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+1.47062461525 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.79380219202 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+UPDATE 1-Windscreen crack is latest Boeing Dreamliner mishap
+4.06973006905 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.805125271596 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.704078652728 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+India's Infosys expects FY operating margin of 26 pct - CFO
+7.43737464559 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+2.29937182017 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+2.13093913536 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+
+India's Infosys shares surge at pre-open after Q3 earnings
+8.0047551957 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+2.02628169091 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.68411440039 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+WRAPUP 3-World mourns Steve Jobs; Apple shares edge higher
+5.8292044537 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+2.74151826032 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+1.55529718064 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+Rambus asked about shredded records in Nvidia case
+0.564233815645 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.525543170928 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.43381468029 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+UPDATE 2-Sony near buying Ericsson out of phone venture-WSJ
+0.87714078598 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.789493069837 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.434648954986 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+Carlos Slim increases stake in NY Times
+2.21805710761 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+1.41863886742 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.05752978035 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+
+UPDATE 1-Oracle to pay $199.5 mln to resolve false claims case
+1.47276592065 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.765656187746 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.445878289168 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+Ex-reporter claims hacking at Trinity Mirror paper-Sky
+1.3516808679 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+1.33998037507 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+0.999583945099 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+
+UPDATE 1-US regulator unveils plan for universal broadband
+1.99513256498 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.31422997704 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.923008032792 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+UPDATE 2-BBC to shrink as it shares in UK spending cuts
+1.41841318445 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+1.2420217596 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.910188775157 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+Dog eats dog as Britain's tabloids bare all
+1.58838378042 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+1.21313418981 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+0.719510055469 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+
+Satellite problems cut phones in Canada's Arctic
+1.20807308949 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.399323696368 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.373475350389 ['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+
+Turk Telekom probed on dominant position complaints
+2.12027487022 ['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+1.53761507316 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.541579787739 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+
+UPDATE 2-Tycoon Slim's retail arm to raise $720 mln with share offer
+1.41442141259 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+1.41201621852 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.70783613338 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+PHILIPPINES PRESS-SEC softens stance on shares ownership rule - Inquirer
+7.51603175996 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+1.4018537103 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+0.76052717254 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+UPDATE 1-Clearwire investor loses bid for fast-track trial vs Sprint deal
+20.9058463975 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+0.516580511603 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.451889835034 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+CORRECTED-Clearwire investor loses bid for fast-track trial vs Sprint deal
+8.39073513743 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+0.231935806776 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.186657272108 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+
+UPDATE 1-Italy's Berlusconi enters lion's den to close gap ahead of vote
+2.6524013877 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+1.16062924967 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.934537221939 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+
+Apple exec dismisses cheaper phone as a market share grab-report
+0.960820315544 ['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+0.955018892446 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.871354057887 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+
+Clearwire investor loses bid for fast-track trial vs Sprint deal
+19.5795554948 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+0.532137487549 ['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+0.443560264188 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+
+The 'second screen': finally ready for prime-time
+1.29724567218 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.26391130864 ['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+0.164815934588 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+
+Carbon market looks to Germany for price boost plan
+4.87029721707 ['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+0.544459922416 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+0.419959294013 ['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+
+UPDATE 2-Native Canadians could block development, chief warns
+2.35799334619 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+2.05712955412 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.16378807832 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+UPDATE 3-Nabucco pipeline boosts prospects with Azeri deal
+3.89735938005 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+1.88868298818 ['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+0.976841245709 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+
+Angry Canada natives say could block resource development
+1.85532921157 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+0.617672985653 ['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+0.490245131764 ['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+
+China's carbon intensity falls over 3.5 pct in 2012- official
+19.1490039088 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+6.19817500183e-05 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+6.57523263103e-24 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+
+UPDATE 1-Ghosts of 2001: Brazil worries about another energy crisis
+1.09519418452 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.772661970997 ['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+0.601044119966 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+
+UPDATE 4-TransCanada to build $6.6 bln gas lines for Petronas
+26.5310406183 ['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+0.0419453225373 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+0.00277295506891 ['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+
+Global contest seeks energy-efficient computer monitors
+1.66637776376 ['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+0.488119771351 ['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+0.308007237233 ['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+
+Ivory Coast signs $500 mln loan deal with China's Exim
+3.19533181218 ['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+1.96575793443 ['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+1.90404938244 ['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
 

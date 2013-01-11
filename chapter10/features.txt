@@ -1,50 +1,100 @@
-['diet', 'with', 'great', 'what', 'trinidad', 'carnival']
-(6.58003120192, u'The Abs Diet by David Zinczenko')
-(5.9231935598, u"I did'nt diet to get in shape for Trinidad's Carnival.....")
-(5.04673654071, u'Sensible Diet & Exercise')
+['infosys', 'india', 'percent', 'shares', 'profit', 'biggest', 'indian', 'bank', 'gain', 'after']
+(25.371281402532727, u'Indian shares fall ahead of inflation; Infosys surges')
+(15.336968046403909, u'India Infosys shares jump; head for biggest daily pctge gain on NSE')
+(8.0047551957023373, u"India's Infosys shares surge at pre-open after Q3 earnings")
 
-['coffee', 'black', 'exercise', 'minutes', 'olive', 'small']
-(6.52183126318, u'food/exercise Monday 10/1')
-(5.94642162786, u'diet/exercise 10/4')
-(5.3332773133, u'food/exercise Friday 10/5')
+['stories', 'business', 'press', 'their', 'following', 'york', 'does', 'vouch', 'verified', 'these']
+(16.621656368111701, u'PRESS DIGEST-New York Times business news - Jan 11')
+(12.402997819429601, u'PRESS DIGEST - Wall Street Journal - Jan 11')
+(11.667442529379038, u'PRESS DIGEST-Canada-Jan 11')
 
-['food', 'calories', 'than', 'easy', 'high', 'come']
-(9.98464450123, u'High or low fat food? Easy trick for figuring it out')
-(3.41252863148, u'Oatmeal, cereal of choice.')
-(3.19119866786, u'Food and Workout Log 10.8.07')
+['join', 'morgan', 'banker', 'temasek', 'stanley', 'popper', 'will', 'holdings', 'singapore', 'mergers']
+(19.649356338020809, u'Morgan Stanley M&A banker Popper to join Temasek: sources')
+(19.304108090266542, u'Morgan Stanley M&A banker Popper to join Temasek - sources')
+(5.1473675845938542, u'BRIEF-Lloyds says Timothy Ryan leaves to join JP Morgan')
 
-['cheese', 'black', 'salad', 'coffee', 'broccoli', 'tomato']
-(7.46811621754, u'saturday')
-(5.62839188358, u'diet-exercise thursday')
-(5.29370213306, u'sleepy food/fitness thursday')
+['china', '2012', 'carbon', 'intensity', 'percent', 'said', 'more', 'thursday', 'economic', 'official']
+(19.912375166911225, u"China's carbon intensity falls over 3.5 percent in 2012: official")
+(19.149003908753816, u"China's carbon intensity falls over 3.5 pct in 2012- official")
+(5.8051327617129802, u"China's CNOOC a step closer to restart largest offshore oilfield")
 
-['food', 'home', 'then', 'exercise', 'morning', 'went']
-(5.22083940456, u'Food & Exercise -- 10/5/2007')
-(5.16310413391, u'Food & Exercise -- 10/4/2007')
-(4.75585045074, u'Food & Exercise -- 9/28/2007 (yesterday)')
+['shares', 'stocks', 'resources', 'china', 'high', 'european', 'month', 'down', 'close', 'with']
+(31.247466807481672, u'European shares slip below 22-month high as China data weighs')
+(6.7934882935334917, u'GLOBAL MARKETS-World shares at 8-month high, euro rallies on ECB shift')
+(5.8719697290743049, u'US STOCKS-Wall St climbs as China data puts S&P back at 5-yr high')
 
-['fats', 'quot', 'this', 'good', 'about', 'like']
-(14.9233786406, u'Good fats bad fats')
-(1.3775418859, u'Should we ban marathons?')
-(1.37194239805, u'Food & Exercise -- 10/3/2007')
+['clearwire', 'track', 'sprint', 'fast', 'corp', 'investor', 'lawsuit', 'deal', 'york', 'trial']
+(20.905846397471802, u'UPDATE 1-Clearwire investor loses bid for fast-track trial vs Sprint deal')
+(19.579555494813018, u'Clearwire investor loses bid for fast-track trial vs Sprint deal')
+(18.532411773499792, u'Clearwire investor loses bid for fast-track trial versus Sprint deal')
 
-['quot', 'they', 'money', 'want', 'very', 'best']
-(6.1620884463, u'More about the Chicago marathon')
-(5.58276496802, u'LOUIE + LINESMAKER = $$$$')
-(4.04959173123, u'High or low fat food? Easy trick for figuring it out')
+['group', 'have', 'taxes', 'france', 'avoid', 'richest', 'belgian', 'said', 'chief', 'against']
+(11.789260767351575, u"UPDATE 1-France's richest man's bid to be Belgian suffers setback")
+(11.3204445792495, u"France's richest man's bid to be Belgian suffers setback")
+(9.3559035591084054, u'Shell may have moved rig to avoid taxes: U.S. lawmaker')
 
-['that', 'much', 'does', 'exercise', 'this', 'morning']
-(7.73926153154, u'Food & Exercise -- 10/7/2007')
-(5.96451663382, u'< 1g, etc.')
-(3.81276353396, u"why I'm succeeding, finally, with my fitness")
+['stock', 'futures', 'index', 'flat', 'with', 'some', 'friday', 'street', 'wells', 'fargo']
+(19.043471438129124, u'U.S. stock index futures point to flat open')
+(19.043471438129124, u'Stock index futures point to flat open')
+(4.4630101423442232, u"Tycoon Slim's retail arm to raise $720 million with share offer")
 
-['with', 'your', 'weight', 'have', 'control', 'about']
-(6.78756986407, u'Control ur Weight')
-(5.54567450388, u'Flu-Busting Chicken Soup')
-(5.21079777525, u'Weight Loss Tips')
+['river', 'from', 'mississippi', 'help', 'ease', 'will', 'could', 'that', 'drought', 'storm']
+(18.84975354586199, u'Rains will help raise Mississippi River, ease shipper woes')
+(18.260941007067203, u'UPDATE 1-Rain to help raise Mississippi River, ease shipper woes')
+(18.146110414313473, u'Rain to help raise Mississippi River, ease shipper woes')
 
-['with', 'lunch', 'workout', 'food', 'butter', 'peanut']
-(5.58477112035, u'Food and Workout Log 9.27.08')
-(5.48488799917, u'Food and Workout Log 10.3.07')
-(5.10395750879, u'Food and Workout Log 10.10.07')
+['transcanada', 'billion', 'will', 'unit', 'update', 'planned', 'says', 'second', 'adds', 'much']
+(26.53104061826409, u'UPDATE 4-TransCanada to build $6.6 bln gas lines for Petronas')
+(3.4622976858660284, u'Supervalu selling 877 supermarkets in $3.3 billion deal')
+(3.447588154989222, u"Ford's Turkish unit says sales, exports fell in 2012")
+
+['china', 'inflation', 'kong', 'expected', 'than', 'winning', 'hong', 'shares', 'higher', 'after']
+(14.335753135030723, u'Hong Kong shares close down 0.4 pct, China inflation sparks profit taking')
+(12.876381850354027, u'China shares have worst day in 4 months, snap 5-week winning streak')
+(10.196426745290216, u'REFILE-Brent eases further below $112 on China inflation worries')
+
+['first', 'industry', 'finra', 'crowdfunding', 'with', 'that', 'financial', 'step', 'towards', 'takes']
+(19.099185782208654, u'UPDATE 1-FINRA takes first steps to regulate crowdfunding industry')
+(18.57508954828344, u'FINRA takes first steps to regulate crowdfunding industry')
+(6.9981376193073439, u'UPDATE 2-Holiday PC sales dip for first time in 5 years')
+
+['debt', 'cyprus', 'euro', 'rehn', 'economic', 'friday', 'zone', 'rules', 'official', 'restructuring']
+(13.992213173378001, u"EU's Rehn rules out Cyprus debt restructuring")
+(13.645217194202829, u"EU's Rehn rules out debt 'haircut' for Cyprus")
+(13.624599352379114, u"UPDATE 1-EU's Rehn rules out Cyprus debt restructuring")
+
+['friday', 'over', 'said', 'savile', 'hundreds', 'decades', 'abused', 'dreamliner', 'boeing', 'according']
+(16.772341991448961, u"UPDATE 1-UK's Savile abused hundreds over six decades -report")
+(16.3821430714966, u"UK's Savile abused hundreds over six decades -report")
+(7.3188459020585475, u"U.S. officials to launch review of Boeing's Dreamliner - source")
+
+['2012', 'profit', 'fall', 'fung', 'restructuring', 'update', 'full', 'warned', 'year', 'percent']
+(19.287360132535817, u'UPDATE 1-Li & Fung warns of 40 pct fall in 2012 profit on restructuring costs')
+(18.608773190207785, u'UPDATE 2-Li & Fung warns of 40 pct fall in 2012 profit on restructuring costs')
+(6.0189070302335832, u'UPDATE 1-Getinge says 2012 earnings below forecast, shares slide')
+
+['tullow', 'start', 'field', 'drilling', 'busy', '2013', 'plans', 'company', 'europe', 'year']
+(20.158877321234844, u'Tullow plans busy start to 2013 drilling year')
+(19.249398784624788, u'UPDATE 1-Tullow sees busy start to 2013 drilling year')
+(3.1441111067396634, u'SAC expects big fund exodus in 2013- WSJ')
+
+['million', 'hobbit', 'north', 'american', 'weekend', 'unexpected', 'texas', 'chainsaw', 'miserables', 'office']
+(17.610242412494568, u'The top films at the North American box office')
+(16.69761688515678, u'The top films in the North American box office')
+(11.360819663803335, u'"The Hobbit" trumps star-packed "Les Miserables"')
+
+['year', 'japan', 'bank', 'this', 'billion', 'sales', 'last', 'ford', 'says', 'dollar']
+(11.750008798571583, u"Ford's Turkish unit says sales, exports fell in 2012")
+(10.820939944685669, u'Dollar hits 2-1/2 year high vs yen, eyes BOJ easing')
+(8.1085424793852976, u'Fed transferred $88.9 billion in profits to U.S. Treasury last year')
+
+['rates', 'after', 'bank', 'month', 'friday', 'said', 'central', 'european', 'last', 'interest']
+(27.754609214022601, u'Euribor rates rise after ECB keeps rates on hold')
+(6.5889152919733727, u'Rivals see UBS holding on to clients after trading loss')
+(5.060607868023915, u'EURO GOVT-Bunds fall after cautiously upbeat ECB')
+
+['shares', 'miners', 'cyclone', 'australian', 'friday', 'australia', 'percent', 'major', 'trade', 'sydney']
+(13.572700223918115, u'Australia shares slip, cyclone hurts major miners')
+(13.085180517501053, u'Australia shares edge lower on week, cyclone curbs miners')
+(12.366609981794893, u'Australia shares end week down, cyclone hurts miners')
 
