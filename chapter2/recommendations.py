@@ -103,7 +103,7 @@ def getRecommendations(prefs,person,similarity=sim_pearson):
         simSums[item]+=sim
 
   # Create the normalized list
-  rankings=[(total/simSums[item],item) for item,total in totals.items()]
+  rankings=[(total/simSums[item],item) for item,total in list(totals.items())]
 
   # Return the sorted list
   rankings.sort()
@@ -131,7 +131,7 @@ def calculateSimilarItems(prefs,n=10):
   for item in itemPrefs:
     # Status updates for large datasets
     c+=1
-    if c%100==0: print "%d / %d" % (c,len(itemPrefs))
+    if c%100==0: print("%d / %d" % (c,len(itemPrefs)))
     # Find the most similar items to this one
     scores=topMatches(itemPrefs,item,n=n,similarity=sim_distance)
     result[item]=scores
@@ -142,7 +142,7 @@ def getRecommendedItems(prefs,itemMatch,user):
   scores={}
   totalSim={}
   # Loop over items rated by this user
-  for (item,rating) in userRatings.items( ):
+  for (item,rating) in list(userRatings.items( )):
 
     # Loop over items similar to this one
     for (similarity,item2) in itemMatch[item]:
@@ -157,7 +157,7 @@ def getRecommendedItems(prefs,itemMatch,user):
       totalSim[item2]+=similarity
 
   # Divide each total score by total weighting to get an average
-  rankings=[(score/totalSim[item],item) for item,score in scores.items( )]
+  rankings=[(score/totalSim[item],item) for item,score in list(scores.items( ))]
 
   # Return the rankings from highest to lowest
   rankings.sort( )

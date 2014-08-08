@@ -86,9 +86,11 @@ import sys
 import os
 import time
 import datetime
-import md5, httplib
-import urllib, urllib2, time
-from StringIO import StringIO
+import hashlib
+import http.client
+import urllib.request, urllib.parse, urllib.error, urllib.request, urllib.error, urllib.parse, time
+from io import StringIO
+import collections
 
 try:
     from elementtree.ElementTree import parse as parse_xml
@@ -141,7 +143,7 @@ try:
 except ImportError:
     import socket
     if hasattr(socket, 'setdefaulttimeout'): socket.setdefaulttimeout(DLCS_REQUEST_TIMEOUT)
-if DEBUG: print >>sys.stderr, "Set socket timeout to %s seconds" % DLCS_REQUEST_TIMEOUT
+if DEBUG: print("Set socket timeout to %s seconds" % DLCS_REQUEST_TIMEOUT, file=sys.stderr)
 
 
 ### Utility classes
@@ -168,10 +170,10 @@ class _Waiter:
         timeago = tt - self.lastcall
 
         if self.lastcall and DEBUG>2:
-            print >>sys.stderr, "Lastcall: %s seconds ago." % lastcall
+            print("Lastcall: %s seconds ago." % lastcall, file=sys.stderr)
 
         if timeago <= self.wait:
-            if DEBUG>0: print >>sys.stderr, "Waiting %s seconds." % self.wait
+            if DEBUG>0: print("Waiting %s seconds." % self.wait, file=sys.stderr)
             time.sleep(self.wait)
             self.waited += 1
             self.lastcall = tt + self.wait
@@ -185,16 +187,16 @@ class PyDeliciousException(Exception):
     pass
 
 class DeliciousError(Exception):
-	"""Raised when the server responds with a negative answer"""
+    """Raised when the server responds with a negative answer"""
 
 
-class DefaultErrorHandler(urllib2.HTTPDefaultErrorHandler):
+class DefaultErrorHandler(urllib.request.HTTPDefaultErrorHandler):
     '''@xxx:bvb: Where is this used? should it be registered somewhere with urllib2?
 
     Handles HTTP Error, currently only 503.
     '''
     def http_error_503(self, req, fp, code, msg, headers):
-        raise urllib2.HTTPError(req, code, throttled_message, headers, fp)
+        raise urllib.error.HTTPError(req, code, throttled_message, headers, fp)
 
 
 class post(dict):
@@ -238,15 +240,15 @@ class posts(list):
 def str2uni(s):
     # type(in) str or unicode
     # type(out) unicode
-    return ("".join([unichr(ord(i)) for i in s]))
+    return ("".join([str(i) for i in s]))
 
 def str2utf8(s):
     # type(in) str or unicode
     # type(out) str
-    return ("".join([unichr(ord(i)).encode("utf-8") for i in s]))
+    return ("".join([str(i) for i in s]))
 
 def str2quote(s):
-    return urllib.quote_plus("".join([unichr(ord(i)).encode("utf-8") for i in s]))
+    return urllib.parse.quote_plus("".join([str(i) for i in s]))
 
 def dict0(d):
     # Trims empty dict entries
@@ -266,7 +268,7 @@ def http_request(url, user_agent=USER_AGENT, retry=4):
 
     Retries up to four times (default) on exceptions.
     """
-    request = urllib2.Request(url, headers={'User-Agent':user_agent})
+    request = urllib.request.Request(url, headers={'User-Agent':user_agent})
 
     # Remember last error
     e = None
@@ -275,35 +277,34 @@ def http_request(url, user_agent=USER_AGENT, retry=4):
     tries = retry;
     while tries:
         try:
-            return urllib2.urlopen(request)
+            return urllib.request.urlopen(request)
 
-        except urllib2.HTTPError, e: # protocol errors,
-            raise PyDeliciousException, "%s" % e
+        except urllib.error.HTTPError as e: # protocol errors,
+            raise PyDeliciousException("%s" % e)
 
-        except urllib2.URLError, e:
+        except urllib.error.URLError as e:
             # @xxx: Ugly check for time-out errors
-			#if len(e)>0 and 'timed out' in arg[0]:
-			print >> sys.stderr, "%s, %s tries left." % (e, tries)
-			Waiter()
-			tries = tries - 1
-			#else:
-			#	tries = None
+            #if len(e)>0 and 'timed out' in arg[0]:
+            print("%s, %s tries left." % (e, tries), file=sys.stderr)
+            Waiter()
+            tries = tries - 1
+            #else:
+            #   tries = None
 
     # Give up
-    raise PyDeliciousException, \
-            "Unable to retrieve data at '%s', %s" % (url, e)
+    raise PyDeliciousException("Unable to retrieve data at '%s', %s" % (url, e))
 
 def http_auth_request(url, host, user, passwd, user_agent=USER_AGENT):
     """Call an HTTP server with authorization credentials using urllib2.
     """
-    if DEBUG: httplib.HTTPConnection.debuglevel = 1
+    if DEBUG: http.client.HTTPConnection.debuglevel = 1
 
     # Hook up handler/opener to urllib2
-    password_manager = urllib2.HTTPPasswordMgrWithDefaultRealm()
+    password_manager = urllib.request.HTTPPasswordMgrWithDefaultRealm()
     password_manager.add_password(None, host, user, passwd)
-    auth_handler = urllib2.HTTPBasicAuthHandler(password_manager)
-    opener = urllib2.build_opener(auth_handler)
-    urllib2.install_opener(opener)
+    auth_handler = urllib.request.HTTPBasicAuthHandler(password_manager)
+    opener = urllib.request.build_opener(auth_handler)
+    urllib.request.install_opener(opener)
 
     return http_request(url, user_agent)
 
@@ -325,18 +326,18 @@ def dlcs_api_request(path, params='', user='', passwd='', throttle=True):
 
     if params:
         # params come as a dict, strip empty entries and urlencode
-        url = "%s/%s?%s" % (DLCS_API, path, urllib.urlencode(dict0(params)))
+        url = "%s/%s?%s" % (DLCS_API, path, urllib.parse.urlencode(dict0(params)))
     else:
         url = "%s/%s" % (DLCS_API, path)
 
-    if DEBUG: print >>sys.stderr, "dlcs_api_request: %s" % url
+    if DEBUG: print("dlcs_api_request: %s" % url, file=sys.stderr)
 
     try:
         return http_auth_request(url, DLCS_API_HOST, user, passwd, USER_AGENT)
 
     # @bvb: Is this ever raised? When?
-    except DefaultErrorHandler, e:
-        print >>sys.stderr, "%s" % e
+    except DefaultErrorHandler as e:
+        print("%s" % e, file=sys.stderr)
 
 def dlcs_parse_xml(data, split_tags=False):
     """Parse any del.icio.us XML document and return Python data structure.
@@ -349,11 +350,11 @@ def dlcs_parse_xml(data, split_tags=False):
      {'posts': [{'url':'...','hash':'...',},],}
      {'tags':['tag1', 'tag2',]}
      {'dates': [{'count':'...','date':'...'},], 'tag':'', 'user':'...'}
-	 {'result':(True, "done")}
+     {'result':(True, "done")}
      # etcetera.
     """
 
-    if DEBUG>3: print >>sys.stderr, "dlcs_parse_xml: parsing from ", data
+    if DEBUG>3: print("dlcs_parse_xml: parsing from ", data, file=sys.stderr)
 
     if not hasattr(data, 'read'):
         data = StringIO(data)
@@ -362,7 +363,7 @@ def dlcs_parse_xml(data, split_tags=False):
     root = doc.getroot()
     fmt = root.tag
 
-	# Split up into three cases: Data, Result or Update
+    # Split up into three cases: Data, Result or Update
     if fmt in ('tags', 'posts', 'dates', 'bundles'):
 
         # Data: expect a list of data elements, 'resources'.
@@ -382,12 +383,12 @@ def dlcs_parse_xml(data, split_tags=False):
     elif fmt == 'result':
 
         # Result: answer to operations
-        if root.attrib.has_key('code'):
+        if 'code' in root.attrib:
             msg = root.attrib['code']
         else:
             msg = root.text
 
-		# Return {'result':(True, msg)} for /known/ O.K. messages,
+        # Return {'result':(True, msg)} for /known/ O.K. messages,
         # use (False, msg) otherwise
         v = msg in DLCS_OK_MESSAGES
         return {fmt: (v, msg)}
@@ -396,10 +397,10 @@ def dlcs_parse_xml(data, split_tags=False):
 
         # Update: "time"
         #return {fmt: root.attrib}
-		return {fmt: {'time':time.strptime(root.attrib['time'], ISO_8601_DATETIME)}}
+        return {fmt: {'time':time.strptime(root.attrib['time'], ISO_8601_DATETIME)}}
 
     else:
-        raise PyDeliciousException, "Unknown XML document format '%s'" % fmt
+        raise PyDeliciousException("Unknown XML document format '%s'" % fmt)
 
 def dlcs_rss_request(tag = "", popular = 0, user = "", url = ''):
     """Handle a request for RSS
@@ -415,7 +416,7 @@ def dlcs_rss_request(tag = "", popular = 0, user = "", url = ''):
     user = str2quote(user)
     if url != '':
         # http://del.icio.us/rss/url/efbfb246d886393d48065551434dab54
-        url = DLCS_RSS + '''url/%s'''%md5.new(url).hexdigest()
+        url = DLCS_RSS + '''url/%s'''%hashlib.md5(url.encode('utf-8')).hexdigest()
     elif user != '' and tag != '':
         url = DLCS_RSS + '''%(user)s/%(tag)s'''%dict(user=user, tag=tag)
     elif user != '' and tag == '':
@@ -437,17 +438,17 @@ def dlcs_rss_request(tag = "", popular = 0, user = "", url = ''):
 #     for e in rss.entries: print e;print
     l = posts()
     for e in rss.entries:
-        if e.has_key("links") and e["links"]!=[] and e["links"][0].has_key("href"):
+        if "links" in e and e["links"]!=[] and "href" in e["links"][0]:
             url = e["links"][0]["href"]
-        elif e.has_key("link"):
+        elif "link" in e:
             url = e["link"]
-        elif e.has_key("id"):
+        elif "id" in e:
             url = e["id"]
         else:
             url = ""
-        if e.has_key("title"):
+        if "title" in e:
             description = e['title']
-        elif e.has_key("title_detail") and e["title_detail"].has_key("title"):
+        elif "title_detail" in e and "title" in e["title_detail"]:
             description = e["title_detail"]['value']
         else:
             description = ''
@@ -455,17 +456,17 @@ def dlcs_rss_request(tag = "", popular = 0, user = "", url = ''):
         except:
             try: tags = e["category"]
             except: tags = ""
-        if e.has_key("modified"):
+        if "modified" in e:
             dt = e['modified']
         else:
             dt = ""
-        if e.has_key("summary"):
+        if "summary" in e:
             extended = e['summary']
-        elif e.has_key("summary_detail"):
+        elif "summary_detail" in e:
             e['summary_detail']["value"]
         else:
             extended = ""
-        if e.has_key("author"):
+        if "author" in e:
             user = e['author']
         else:
             user = ""
@@ -506,9 +507,9 @@ class DeliciousAPI:
         self.codec = codec
 
         # Implement communication to server and parsing of respons messages:
-        assert callable(api_request)
+        assert isinstance(api_request, collections.Callable)
         self._api_request = api_request
-        assert callable(xml_parser)
+        assert isinstance(xml_parser, collections.Callable)
         self._parse_response = xml_parser
 
     def _call_server(self, path, **params):
@@ -552,12 +553,12 @@ class DeliciousAPI:
             fl = self._call_server(path, **params)
             rs = self._parse_response(fl)
 
-			# Raise an error for negative 'result' answers
+            # Raise an error for negative 'result' answers
             if type(rs) == dict and rs == 'result' and not rs['result'][0]:
                 errmsg = ""
                 if len(rs['result'])>0:
                     errmsg = rs['result'][1:]
-                raise DeliciousError, errmsg
+                raise DeliciousError(errmsg)
 
             return rs
 
@@ -600,7 +601,7 @@ class DeliciousAPI:
         ::
 
             <update time="CCYY-MM-DDThh:mm:ssZ">
-		"""
+        """
         return self.request("posts/update", **kwds)
 
     def posts_dates(self, tag="", **kwds):
@@ -756,7 +757,7 @@ class DeliciousAPI:
 def apiNew(user, passwd):
     """creates a new DeliciousAPI object.
     requires user(name) and passwd
-	"""
+    """
     return DeliciousAPI(user=user, passwd=passwd)
 
 def add(user, passwd, url, description, tags="", extended="", dt="", replace="no"):
@@ -784,13 +785,13 @@ def get_tags(user, passwd):
 def getrss(tag="", popular=0, url='', user=""):
     """get posts from del.icio.us via parsing RSS @bvb[or HTML]
 
-	@bvb[not tested]
+    @bvb[not tested]
 
     tag (opt) sort by tag
     popular (opt) look for the popular stuff
     user (opt) get the posts by a user, this striks popular
     url (opt) get the posts by url
-	"""
+    """
     return dlcs_rss_request(tag=tag, popular=popular, user=user, url=url)
 
 def get_userposts(user):
