@@ -1,5 +1,5 @@
 from BeautifulSoup import BeautifulSoup
-import urllib2
+import urllib.request, urllib.error, urllib.parse
 import re
 chare=re.compile(r'[!-\.&]')
 itemowners={}
@@ -10,7 +10,7 @@ dropwords=['a','new','some','more','my','own','the','many','other','another']
 currentuser=0
 for i in range(1,51):
   # URL for the want search page
-  c=urllib2.urlopen(
+  c=urllib.request.urlopen(
   'http://member.zebo.com/Main?event_key=USERSEARCH&wiowiw=wiw&keyword=car&page=%d'
   % (i))
   soup=BeautifulSoup(c.read())
@@ -30,7 +30,7 @@ out=file('zebo.txt','w')
 out.write('Item')
 for user in range(0,currentuser): out.write('\tU%d' % user)
 out.write('\n')
-for item,owners in itemowners.items():
+for item,owners in list(itemowners.items()):
   if len(owners)>10:
     out.write(item)
     for user in range(0,currentuser):
